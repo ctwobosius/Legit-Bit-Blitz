@@ -1,5 +1,7 @@
 # Legit-Bit-Blitz
-A 2D sidescrolling shooter built as my Fall 2018 final CS10 project at UC Berkeley, using Python and Pygame. Uses command line input to setup game variables, and Pygame with mouse and keyboard input to play the game. Here is a demo:
+A 2D sidescrolling shooter built as my Fall 2018 final CS10 project at UC Berkeley, built from scratch using Python and Pygame. Has a local two player mode and a single player mode with optional hard setting, three selectable weapons, four enemy variants, and sound effects/music. Uses command line input to customize game variables, and Pygame with mouse and keyboard input to play the game. 
+
+Here is a demo:
 https://www.youtube.com/watch?v=PoItm_pdLcM&feature=youtu.be
 
 The folder "AUDIO" has all the audio files.
